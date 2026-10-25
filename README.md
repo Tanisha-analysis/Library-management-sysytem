@@ -161,9 +161,9 @@ SELECT * FROM issue_audit;
 
 | | |
 |---|---|
-| ![Home](screenshots01-home.png) | ![Books](screenshots02-books.png) |
+| ![Home](screenshots01-home.png) | ![Books](screenshot02-books.png) |
 | ![Issue Book](screenshots04-issue-book.png) | ![Return Book](screenshots06-return-book.png) |
-| ![Issues Details](screenshots05-issues-details.png) | ![Audit Log](screenshots07-audit-log.png) |
+| ![Issues Details](screenshots05-issue-details.png) | ![Audit Log](screenshots07-audit-log.png) |
 
 All PL/SQL objects compiled and valid:
 
