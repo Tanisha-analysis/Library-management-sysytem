@@ -161,13 +161,13 @@ SELECT * FROM issue_audit;
 
 | | |
 |---|---|
-| ![Home](screenshots/01-home.png) | ![Books](screenshots/02-books.png) |
-| ![Issue Book](screenshots/04-issue-book.png) | ![Return Book](screenshots/06-return-book.png) |
-| ![Issues Details](screenshots/05-issues-details.png) | ![Audit Log](screenshots/07-audit-log.png) |
+| ![Home](screenshots01-home.png) | ![Books](screenshots02-books.png) |
+| ![Issue Book](screenshots04-issue-book.png) | ![Return Book](screenshots06-return-book.png) |
+| ![Issues Details](screenshots05-issues-details.png) | ![Audit Log](screenshots07-audit-log.png) |
 
 All PL/SQL objects compiled and valid:
 
-![PL/SQL objects](screenshots/09-plsql-objects-valid.png)
+![PL/SQL objects](screenshots09-plsql-objects-valid.png)
 
 ## Future improvements
 
