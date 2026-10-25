@@ -39,7 +39,7 @@ A librarian can issue and return books from the browser. The database itself che
 
 ## Database design
 
-![ER diagram](screenshots/00-er-diagram.png)
+![ER diagram](screenshots00-er-diagram.png)
 
 | Table | Purpose |
 |---|---|
